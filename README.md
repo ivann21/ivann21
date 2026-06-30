@@ -24,8 +24,8 @@ I'm passionate about building modern web and mobile applications, learning new t
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,css,html,kotlin,react,nodejs,express,postgres,git,github,docker,)](https://skillicons.dev)
 
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivann21&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivann21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann21&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann21&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ivann21&theme=tokyonight)
