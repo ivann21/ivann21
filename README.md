@@ -31,5 +31,5 @@ I'm passionate about building modern web and mobile applications, learning new t
 
 ## 📫 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/tuusuario
+- 💼 gmail: icastellano2106@gmail.com
 - 🌐 Portfolio: https://ivann21.github.io (cuando lo tengas)
