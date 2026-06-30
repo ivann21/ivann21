@@ -30,6 +30,8 @@ I'm passionate about building modern web and mobile applications, learning new t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ivann21&theme=tokyonight)
 
+![](https://komarev.com/ghpvc/?username=ivann21&color=blue)
+
 ## 📫 Connect with Me
 
 - 💼 gmail: icastellano2106@gmail.com
