@@ -1,4 +1,5 @@
-# Hi 👋 I'm Ivan
+<h1 align="center">Hi 👋, I'm Ivan</h1>
+<h3 align="center">Web & Mobile Developer from Spain 🇪🇸</h3>
 
 💻 Web & Mobile Developer
 
