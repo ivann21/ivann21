@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">Web & Mobile Developer from Spain 🇪🇸</h3>
 
-💻 Web & Mobile Developer
 
-I'm passionate about building modern web and mobile applications, learning new technologies, and creating clean, scalable solutions.
+<p align="center">
+  Passionate about building modern web and mobile applications with clean code and great user experiences.
+</p>
 
 ## 🚀 About Me
 
@@ -16,11 +17,6 @@ I'm passionate about building modern web and mobile applications, learning new t
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,php,mysql,postgres,kotlin,html,css,git,github,docker)](https://skillicons.dev)
 
-## 📌 Featured Projects
-
-- 📱 Expense Tracker App
-- 🌐 Restaurant Management System
-- 💬 Real-Time Chat Application
 
 ## 📊 GitHub Stats
 
@@ -30,9 +26,11 @@ I'm passionate about building modern web and mobile applications, learning new t
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ivann21&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=ivann21&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ivann21&color=blue" alt="Profile views" />
+</p>
 
 ## 📫 Connect with Me
 
-- 💼 gmail: icastellano2106@gmail.com
-- 🌐 Portfolio: https://ivann21.github.io (cuando lo tengas)
+- 📧 Email: **icastellano2106@gmail.com*
+- 🌐 Portfolio: Coming soon...
