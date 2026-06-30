@@ -19,3 +19,9 @@ I'm passionate about building modern web and mobile applications, learning new t
 
 - 📱 Mobile App
 - 🌐 Web Dashboard
+
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,react,nodejs,express,mongodb,postgres,git,github,docker)](https://skillicons.dev)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivann21&show_icons=true&theme=tokyonight)
