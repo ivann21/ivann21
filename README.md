@@ -1,16 +1,21 @@
 ## Hi there 👋
+# Hi 👋 I'm Ivan
 
-<!--
-**ivann21/ivann21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web & Mobile Developer
 
-Here are some ideas to get you started:
+I'm passionate about building modern web and mobile applications, learning new technologies, and creating clean, scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Java
+- JavaScript
+- React
+- Node.js
+- MySQL
+- PostgreSQL
+- PHP
+
+## 📌 Featured Projects
+
+- 📱 Mobile App
+- 🌐 Web Dashboard
